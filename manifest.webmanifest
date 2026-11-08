@@ -1,0 +1,13 @@
+{
+  "name": "AulaPlus — tu espacio de estudio",
+  "short_name": "AulaPlus",
+  "description": "Organiza tus apuntes, tareas y simulacros de examen.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#101827",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
